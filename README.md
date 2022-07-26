@@ -29,13 +29,13 @@ sudo nano ~/.bashrc
 
 - *At the end of the bashrc file we will add the following line:*
 
-(source /home/wesam/catkin_ws/devel/setup.bash)
+>(source /home/wesam/catkin_ws/devel/setup.bash)
 
 - *then ctrl + o*
 
-source ~/.bashrc
+>source ~/.bashrc
 
 - *The last command to launch the arm:*
 
-roslaunch robot_arm_pkg check_motors.launch
+>roslaunch robot_arm_pkg check_motors.launch
 
