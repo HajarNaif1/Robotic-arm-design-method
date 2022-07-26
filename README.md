@@ -25,7 +25,7 @@
 
 - *Now we will update your bashrc script with the information about the new workspace:*
 
-sudo nano ~/.bashrc
+>sudo nano ~/.bashrc
 
 - *At the end of the bashrc file we will add the following line:*
 
