@@ -1,4 +1,4 @@
-# Robotic arm design method
+# Robotic arm loading
 ## First we will login to Ubuntu and then we will open Terminal and we will write type those commands:
 ###
 - *Check the dependencies :*
