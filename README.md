@@ -39,3 +39,4 @@
 
 >roslaunch robot_arm_pkg check_motors.launch
 
+![image](https://user-images.githubusercontent.com/107880209/181132382-85abd816-10f2-4ca6-b8d1-1eae4e888855.png)
